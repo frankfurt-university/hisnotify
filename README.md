@@ -34,9 +34,8 @@ In der Datei his.py müssen noch die Werte
 angepasst werden.
 
 
-Danach muss noch ein cronjob oder ähnliches eingerichtet werden, dass die Seite abfragt.
+Danach muss noch ein cronjob oder ähnliches eingerichtet werden, der das Script regelmäßig aufruft. 
 Bitte stell die Frequenz dafür nicht zu hoch ein, um nicht unnötig Last auf den HIS-Servern zu erzeugen.
-Ein paar Mal am Tag sollte reichen.
 
 
 Stabilität
